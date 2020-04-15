@@ -18,12 +18,12 @@ Programming languages that I have used so far:
 Although I have used Github for almost a year, I am not really fluent in it. Probably because the commands that I used are simple ones :(
 
 ## Wish List During Quarantine Lockdown
-[X] Finished watching Season 4 of Money Heist :D
-[ ] Finished doing CSCI3100 Project :(
-[ ] Finished reading Head First Design Pattern book
-[X] Sleeping Late
-[X] Watch Youtube more often <3
-[X] Skip classes
+- [X] Finished watching Season 4 of Money Heist :D
+- [ ] Finished doing CSCI3100 Project :(
+- [ ] Finished reading Head First Design Pattern book
+- [X] Sleeping Late
+- [X] Watch Youtube more often <3
+- [X] Skip classes
 
 ## Courses That I Take This Semester
 I took a total of 17 credits this semester:D.
